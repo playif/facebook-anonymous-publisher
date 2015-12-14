@@ -11,7 +11,7 @@ The general method to provide an anonymous Facebook page for people is:
 This project let you having an intelligent *bot* which is able to automatically perform the following jobs for you:
 
 + Without any exceptions and unpredictable errors from Facebook API, this *bot* will directly publish the new messages from users  to your Facebook page.
-+ A message queuing service will automatically start when too many messages has created by users within a short period.
++ A message queuing service will automatically start when too many messages have created by users within a short period.
 + Anyone has the right to anonymously speak out his/her thoughts to the public through this application without need to login into his/her Facebook account or use any third-party applications.
 + You are able to set your filters and senstive words to prevent abuse using and spam messages from haters.
 + This *bot* works 24/7 without need to sleep.
