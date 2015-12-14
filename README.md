@@ -138,7 +138,7 @@ $ git push
 
 
 ## Donate
-If you want to donate there are 3 methods: PayPal, Bitcoin, and Pay2go.
+If you want to donate there are 3 methods: PayPal, Bitcoin, or Pay2go.
 
 #### PayPal
 To donate through PayPal go to this [page](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAWSQ2HGSFW22) and follow the instructions on the page.
