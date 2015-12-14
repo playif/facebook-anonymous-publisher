@@ -146,7 +146,7 @@ To donate through PayPal go to this [page](https://www.paypal.com/cgi-bin/webscr
 #### Bitcoin
 It's possible to use Bitcoin to donate. Just send the Bitcoins to this address: 14ABxmCme8LPkKS2KuWU9YrQCHMVCcnTt5
 
-#### PayPal
+#### Pay2go
 To donate through Pay2go go to this [page](https://web.pay2go.com/EPG/service_donate/0SvJFQ) and follow the instructions on the page.
 
 
